@@ -1,6 +1,6 @@
-# flutter_app
+# Startup Name Generator
 
-A new Flutter application.
+A Flutter application based on flutter.dev/get-started with new added features.
 
 ## Getting Started
 
